@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>848940562038-96kbeo0iii9qutupabmj3gm0u8favc80.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.848940562038-96kbeo0iii9qutupabmj3gm0u8favc80</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAUGCQ9jvAzueKw-DXY42-lGz_OA9WzaSQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>848940562038</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.revamphAssignment</string>
+	<key>PROJECT_ID</key>
+	<string>revamph-assignment-3e43a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>revamph-assignment-3e43a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:848940562038:ios:a4ec789a4f22f08af05157</string>
+</dict>
+</plist>
